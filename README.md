@@ -7,7 +7,7 @@
 🌱 &nbsp;I'd like to learn more about HTML, CSS, and JavaScript.\
 ✍️ &nbsp;In my free time, I love to travel, watch movies, and discover great food spots nearby.\
 💬 &nbsp;Feel free to reach out for any discussions!\
-✉️ &nbsp;You can email me at acheney3@asu.edu. I'll try to respond as soon as possible!\
+✉️ &nbsp;You can email me at acheney3@asu.edu. I'll try to respond as soon as possible!
 
 ### 📫 &nbsp; How to reach me:
 

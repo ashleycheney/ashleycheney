@@ -12,3 +12,4 @@
 ### 📫 &nbsp; How to reach me:
 
 <a href="https://www.linkedin.com/in/ashley-cheney-b043022b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="https://codepen.io/ashleycheney/"><img alt="CodePen" src="https://img.shields.io/badge/codepen-logo?style=flat&logo=codepen&logoColor=black&color=white"/></a> &nbsp;

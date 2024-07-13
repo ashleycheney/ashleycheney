@@ -1,16 +1,14 @@
 ## Hi there 👋
+![BannerGIF](https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif)
 
-<!--
-**ashleycheney/ashleycheney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+💡 &nbsp;I'm Ashley Cheney, an aspiring Full-stack Web Developer!\
+🎓&nbsp;I'm currently attending Arizona State University pursuing my BS in Graphic Information Technology (Full-Stack Web Development)\
+🌱 &nbsp;I'd like to learn more about HTML, CSS, and JavaScript.\
+✍️ &nbsp;In my free time, I love to travel, watch movies, and discover great food spots nearby.\
+💬 &nbsp;Feel free to reach out for any discussions!\
+✉️ &nbsp;You can email me at acheney3@asu.edu. I'll try to respond as soon as possible!\
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 &nbsp; How to reach me:
+
+<a href="https://www.linkedin.com/in/ashley-cheney-b043022b2/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
